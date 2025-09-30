@@ -10,9 +10,9 @@ function Type() {
           "Freelancer",
           "Python",
           "R",
-          "and SQL",
+          " SQL",
           "MERN Stack Developer",
-          "Open Source Contributor"
+          " and Open Source Contributor"
         ],
         autoStart: true,
         loop: true,
